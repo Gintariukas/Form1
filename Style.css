@@ -1,0 +1,53 @@
+div {
+    background-color: #f1f1f1;
+    width: 795px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+    color: #a8a8a8;
+    font-family: arial sans-serif;
+}
+h1 {
+    font-weight: lighter;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+input[type=text] {
+    height: 40px;
+    width: 330px;
+    border-radius: 4px;
+    border: none;
+    box-sizing: border-box;
+    padding-left: 15px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    display: block;
+    font-family: arial sans-serif;
+    font-size: 16px;
+}
+input[type=submit] {
+    background-color: #e84c3d;
+    width: 690px;
+    height: 40px;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: arial sans-serif;
+    font-size: 16px;
+}
+textarea {
+    width: 350px;
+    height: 146px;
+    resize: none;
+    float: right;
+    border: none;
+    border-radius: 4px;
+    margin-right: 50px;
+    margin-top: -165px;
+    font-family: arial sans-serif;
+    font-size: 16px;
+    padding: 5px 0 0 5px;
+}
